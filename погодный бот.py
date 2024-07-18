@@ -9,7 +9,7 @@ from telegram.constants import ParseMode
 TELEGRAM_TOKEN = 'TGTOKEN'
 CHAT_ID = ['', '', '', '']
 
-OWM_API_KEY = '06108441159fd8c9e7543143452497fd'
+OWM_API_KEY = 'YOUR_OWM_API_KEY'
 CITY_ID = '500096'
 
 def get_weather():
