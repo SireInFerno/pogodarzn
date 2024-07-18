@@ -6,8 +6,8 @@ import asyncio
 from telegram import Bot
 from telegram.constants import ParseMode
 
-TELEGRAM_TOKEN = '6902397269:AAE4ffnPbja7tVgl3UXpYotw8WuCJDK8PSo'
-CHAT_ID = ['792928797', '1922538822', '5582732310', '1089193212']
+TELEGRAM_TOKEN = 'TGTOKEN'
+CHAT_ID = ['', '', '', '']
 
 OWM_API_KEY = '06108441159fd8c9e7543143452497fd'
 CITY_ID = '500096'
